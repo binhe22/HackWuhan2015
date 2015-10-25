@@ -26,4 +26,4 @@ Hackathon Wuhan 2015 项目提交样例
 
 ## 产品预览
 
-![糊脸](https://raw.githubusercontent.com/mojacc/HackWuhan2015/master/pics/preview.png)
+![糊脸](https://raw.githubusercontent.com/mojacc/HackWuhan2015/master/pics/preview.jpg)
